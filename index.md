@@ -1,4 +1,4 @@
-## Overview de git
+## Overview de git / sauvegarde de projet
 Logiciel de gestion décentralisé.
 Décentralisé : - Ne pas être dépendant d'une seule machine
 - Travailler sans être connecté
@@ -19,15 +19,27 @@ Quand on travaille sur un projet / quand on développe, on est concentré sur no
 
 ## Overview du métier et de l'état d'esprit
 
-Beaucoup de formations vous vendent ce métier comme accessible à tous. **Ce n'est pas vrai**
+Beaucoup de formations vous vendent ce métier comme accessible à tous. **Ce n'est pas vrai**.
 C'est un métier passionnant, exigent, envahissant parfois, qui demande des compétences techniques qui s'apprennent plus ou moins rapidement selon les personnes.
-Être développeur, c'est stressant. 
+
+### Personnel
 
 Les habitudes à prendre en tant que dev :
-- Essayer de nouvelles choses : Il existe un nombre incalculable d'outils et de languages. Un dev qui s'améliore, c'est un dev qui sort de sa zone de confort.
-- Prendre le temps : Si vous courrez tête baisser sur une fonctionnalité ou la compréhension de quelque chose, vous allez vous planter. Prenez le temps de comprendre ce que l'on vous demande, réfléchissez à comment le faire, puis faites le.
-- Apprenez au fur et à mesure : Ca ne sert à rien de s'enfiler une doc entière, car le lendemain, vous ne saurez plus comment faire une action basique. Avancez étape par étape, et vous serez beaucoup plus efficace.
-- Réussir à prendre du recul : Être bloqué sur un problème peut être très frustant et très prenant. La plupart du temps, vous ne trouverez pas la solution directement.
+- **Essayer de nouvelles choses** : Il existe un nombre incalculable d'outils et de languages. Un dev qui s'améliore, c'est un dev qui sort de sa zone de confort.
+- **Prendre le temps** : Si vous courrez tête baisser sur une fonctionnalité ou la compréhension de quelque chose, vous allez vous planter. Prenez le temps de comprendre ce que l'on vous demande, réfléchissez à comment le faire, puis faites le.
+- **Apprenez au fur et à mesure** : Ca ne sert à rien de s'enfiler une doc entière, car le lendemain, vous ne saurez plus comment faire une action basique. Avancez étape par étape, et vous serez beaucoup plus efficace.
+- **Réussir à prendre du recul** : Être bloqué sur un problème peut être très frustant et très prenant. La plupart du temps, vous ne trouverez pas la solution directement.
+- **Réussir à se concentrer** : Exemple : Pomodoro.
+- **Attention à votre égo** : Certains développeurs ont un égo surdimentionner (la plupart du temps ce sont des juniors). Il y a autant de manière de développer que de développeurs. Il y a très surement un enfant de 5 ans en Chine bien plus doué que vous l'êtes. tout de même, ca reste important d'avoir confiance en soi et en ses capacités. Mais il faut savoir accepter quand on a tort, ou qu'une autre manière de faire est plus opti.
+- **Esprit de synthèse** : Vous serez amené à faire des documentations sur ce que vous avez produits, et pour des profils pas forcément technique.
+
+### En équipe
+- Une équipe solide s'**impose un niveau de règles et de bonnes pratiques**. C'est faire de ces pratiques une tradition qui sera respectée et défendue par ses membres. Ces pratiques doivent être **formalisé** et accessible à tout moment.
+- Une équipe doit pouvoir **communiquer**. Nous ne sommes pas là pour travailler contre les autres, mais avec.
+- Être une équipe. On **gagne ensemble**, et on **échoue ensemble**. Il n'y a pas de compétition interne, nous sommes là pour avancer ensemble.
+- **Savoir faire part de ses difficultés** : En général, une équipe est multidisciplinaire. Si quelque chose vous bloque, il faut essayer d'en discuter avec des collèges plus apte dans ce domaine. Bien entendu, il y a des manières de dire les choses (critiquer une tech ou le travail choisi par son collège).
+*/!\ Avant de déranger le cycle de travail d'un collaborateur, soyez sûr s'avoir explorer toutes les possibilités. Cela vous rend plus autonome et vous découvrirez d'autres informations utiles.*
+
 
 ## Welcome to GitHub Pages
 
