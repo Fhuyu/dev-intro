@@ -9,12 +9,14 @@
 - Technicien de maintenance : Maintenance du matériel et des logiciels.
 - Testeur
 
+à faire : Schéma des différentes étapes d'un projet web, et ou ces métiers se situent dessus.
+
 En général, les employeurs demandent un niveau bac + 2 / bac + 3. 
 Pour des petites / moyennes entreprises, vous pouvez ne pas avoir de diplôme qualifiant si vous pouvez justifier d'expériences pro ou personnels.
 Pour des grandes entreprises ou des ESN, vous devez avoir une qualification (grille tarifaire)
 
 ## Quels sont pour vous les qualités que doit avoir un développeur ?
-À noter ensembme
+À noter ensemble
 
 ## Pour vous, que peuvent-être les contraintes du métier ?
 À noter ensemble
@@ -28,6 +30,8 @@ C'est une communauté qui s'entraide. Beaucoup de logiciels, de travail sont **o
 Exemple de vueJS.
 https://stackoverflow.com/
 
+à réflechir : expliquer brievement et simplement la différence entre front-end, back-end, fullStack.
+
 ### Personnel
 
 Les habitudes à prendre en tant que dev :
@@ -40,6 +44,9 @@ Les habitudes à prendre en tant que dev :
 - **Esprit de synthèse** : Vous serez amené à faire des documentations sur ce que vous avez produits, et pour des profils pas forcément technique.
 
 ### Formations - Retour d'expérience
+- Le "par coeur" n'est pas une solution.
+- Différence entre l'aptitude à lire et comprendre un bloc de code et à l'écrire.
+- Entrainement personnel
 
 ### En équipe
 
