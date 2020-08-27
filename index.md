@@ -1,3 +1,20 @@
+## Overview de git
+Logiciel de gestion décentralisé.
+Décentralisé : - Ne pas être dépendant d'une seule machine
+- Travailler sans être connecté
+
+L'utilisation de git demande une connaissance du logiciel + utilisation du terminal (en général)
+*/!\ git =/= github
+Github est la plateforme de stockage (appelé forge), git est le logiciel. Vous pouvez utiliser git sans passer par github.*
+
+En tant que collaborateur, vous êtes amenés à travailler sur le même projet, et parfois sur le même fichier.
+Ceci demande une organisation interne des collaborateurs.
+Il est nécessaire de mettre en place des règles (façon d'appeler un fichier, façon de le stocker ...) :
+- Pour éviter de perdre du temps dans le futur (recherche d'un fichier au mauvais endroit ou mal appelé)
+- Pour avoir une vision fluide du projet (organisation des fichiers par date ...)
+
+*/!\ Même si on travaille seul sur un projet, nous devons toujours penser au prochain qui le reprendra, ou même à vous dans 6 mois. La manière de pensée que vous avez eu à ce moment sera-t-elle la même plus tard ?*
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Fhuyu/dev-intro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
