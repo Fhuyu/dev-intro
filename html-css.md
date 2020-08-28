@@ -6,7 +6,10 @@ Qu'est ce que le HTML5 a amené de plus ? : https://www.ideematic.com/actualites
 
 ### Syntaxe
 ```html
-<!DOCTYPE html>
+<balise> Contenu </balise>
+```
+```html
+<!DOCTYPE html> <!--  Représente le type document,et aide le navigateur à afficher la page correctement -->
 <html>
     <head>
         <title>Page Title</title>
@@ -18,6 +21,12 @@ Qu'est ce que le HTML5 a amené de plus ? : https://www.ideematic.com/actualites
 
     </body>
 </html>
+```
+#### Titre
+```html
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
 ```
 #### ID et Class
 
