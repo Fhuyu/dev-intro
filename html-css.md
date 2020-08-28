@@ -25,9 +25,8 @@ CSS = Cascading Style Sheets.
 Language qui permet de mettre en forme une page web en décrivant comment les éléments HTMLs doivent être affichés.
 Un style CSS peut influencer plusieurs pages d'un site en même temps.
 
-<img src="markdownmonstericon.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+<img src="css-overview.png"
+     alt="css example"/>
 
 ### Syntaxe
 ```css
