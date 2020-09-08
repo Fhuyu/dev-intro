@@ -33,8 +33,8 @@ C'est un métier passionnant, exigent, envahissant parfois, qui demande des comp
   
     
 Le développement, c'est un état d'esprit. C'est une communauté qui s'entraide.  
-Beaucoup de logiciels, de travail sont **open source** (Expliquer l'exemple de Microsoft avec VS).  
-Beaucoup de développeur travaille pour améliorer la qualité de travail de ses pairs, plutôt que de se faire du profit.  
+Beaucoup de logiciels, de travaux sont **open source** (Expliquer l'exemple de Microsoft avec VS).  
+Beaucoup de développeurs travaillent pour améliorer la qualité de travail de ses pairs, plutôt que de se faire du profit.  
   
 Explication de la création de VueJS.  
 https://stackoverflow.com/
@@ -49,8 +49,8 @@ Les habitudes à prendre en tant que dev :
 - **Apprenez au fur et à mesure** : Ca ne sert à rien de s'enfiler une doc entière, car le lendemain, vous ne saurez plus comment faire une action basique. Avancez étape par étape, et vous serez beaucoup plus efficace.
 - **Réussir à prendre du recul** : Être bloqué sur un problème peut être très frustant et très prenant. La plupart du temps, vous ne trouverez pas la solution directement.
 - **Réussir à se concentrer** : Exemple : Pomodoro.
-- **Attention à votre égo** : Certains développeurs ont un égo surdimentionner (la plupart du temps ce sont des juniors). Il y a autant de manière de développer que de développeurs.  
-/!\ Il fault avoir confiance en soi et en ses capacités. Mais il faut savoir accepter quand on a tort, ou qu'une autre manière de faire est plus opti.
+- **Relations** : Certains développeurs pensent tout savoir. Il y a autant de manière de développer que de développeurs.  
+/!\ Il faut avoir confiance en soi et en ses capacités. Mais il faut savoir accepter quand on a tort, ou qu'une autre manière de faire est plus optimisé.
 - **Esprit de synthèse** : Vous serez amené à faire des documentations sur ce que vous avez produit, et pour des profils pas forcément technique.
 
 ### Formations - Retour d'expérience
@@ -70,7 +70,7 @@ La plupart du temps, nous sommes intégré à une équipe, et on doit être capa
 - Une équipe doit pouvoir **communiquer**. Nous ne sommes pas là pour travailler contre les autres, mais avec.
 - Être une équipe. On **gagne ensemble**, et on **échoue ensemble**. Il n'y a pas de compétition interne, nous sommes là pour avancer ensemble.
 - **Savoir faire part de ses difficultés** : En général, une équipe est multidisciplinaire. Si quelque chose vous bloque, il faut essayer d'en discuter avec des collèges plus apte dans ce domaine. Bien entendu, il y a des manières de dire les choses (critiquer une tech ou le travail choisi par son collège).
-*/!\ Avant de déranger le cycle de travail d'un collaborateur, soyez sûr s'avoir explorer toutes les possibilités. Cela vous rend plus autonome et vous découvrirez d'autres informations utiles.*
+*/!\ Avant de déranger le cycle de travail d'un collaborateur, soyez sûr d'avoir explorer toutes les possibilités. Cela vous rend plus autonome et vous découvrirez d'autres informations utiles.*
 
 ## Overview de git / Sauvegarde de projet
 
@@ -78,15 +78,15 @@ Logiciel de gestion décentralisé.
 Décentralisé : - Ne pas être dépendant d'une seule machine
 - Travailler sans être connecté
 
-L'utilisation de git demande une connaissance du logiciel + utilisation du terminal.
-*/!\ git =/= github ou gitlab
+L'utilisation de git demande une connaissance du logiciel + utilisation du terminal.  
+*/!\ git =/= github ou gitlab  
 Github est la plateforme de stockage (appelé forge), git est le logiciel. Vous pouvez utiliser git sans passer par github.*
 
 En tant que collaborateur, vous êtes amenés à travailler sur le même projet, et parfois sur le même fichier.
 Ceci demande une organisation interne.
 Il est nécessaire de mettre en place des règles (façon d'appeler un fichier, façon de le stocker ...) :
-- Pour avoir une cohésion dans l'équipe (Si tout le monse appelle et range les choses de la même manière, on s'y retrouve beaucoup plus!)
-- Pour éviter de perdre du temps dans le futur (recherche d'un fichier au mauvais endroit ou mal appelé)
+- Pour avoir une cohésion dans l'équipe (Si tout le monde nomme et range les choses de la même manière, on s'y retrouve beaucoup plus!)
+- Pour éviter de perdre du temps dans le futur (recherche d'un fichier au mauvais endroit ou mal nommé)
 - Pour avoir une vision fluide du projet (organisation des fichiers par date ...)
 
-*/!\ Même si on travaille seul sur un projet, nous devons toujours penser au prochain qui le reprendra, ou même à nous dans 6 mois. La manière de pensée que vous avez eu à ce moment sera-t-elle la même plus tard ? Automatiquement, nous nous imposons des règles que l'on appliquera sur toous nos projets.*
+*/!\ Même si on travaille seul sur un projet, nous devons toujours penser au prochain qui le reprendra, ou même à nous dans 6 mois. La manière de pensée que vous avez eu à ce moment sera-t-elle la même plus tard ? Automatiquement, nous nous imposons des règles que l'on appliquera sur tous nos projets.*
