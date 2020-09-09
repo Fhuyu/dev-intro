@@ -17,10 +17,24 @@ Pour des PMEs, vous pouvez ne pas avoir de diplôme qualifiant si vous pouvez ju
 Pour des grandes entreprises ou des ESN, vous devez avoir une qualification (grille tarifaire)
 
 ## Quels sont pour vous les qualités que doit avoir un développeur ?
-À noter ensemble
+Logique
+Rigueur
+Connaissance technique
+Curieux veille techno + temps
+Social
+Patient
+Responsabilité
+Concentration
 
 ## Pour vous, que peuvent-être les contraintes du métier ?
-À noter ensemble
+Souvent derriere l'écran
+Concentration
+Veille techno
+Adaptation au client
+Frustation
+Stress
+Flexibilité de l'horaire
+Ennuyant
 
 ## Overview du métier et de l'état d'esprit
 
