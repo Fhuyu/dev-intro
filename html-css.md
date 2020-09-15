@@ -22,19 +22,25 @@ Qu'est ce que le HTML5 a amené de plus ? : https://www.ideematic.com/actualites
     </body>
 </html>
 ```
-#### Titre
+#### Tags 
+#https://www.w3schools.com/tags/  
 ```html
 <h1>This is heading 1</h1>
-<h2>This is heading 2</h2>
-<h3>This is heading 3</h3>
+<p>This is a paragraph</p>
+<a href="url.com">This is heading 3</a> https://www.w3schools.com/html/html_attributes.asp https://www.w3schools.com/tags/ref_attributes.asp
 ```
 #### ID et Class
-
+```html
+<h1 class="titre">This is heading 1</h1>
+<h1 id="premier-titre">This is heading 1</h1>
+<h1 class="titre" id="premier-titre">This is heading 1</h1>
+```
 
 ## CSS3
 CSS = Cascading Style Sheets. 
 Language qui permet de mettre en forme une page web en décrivant comment les éléments HTMLs doivent être affichés.
 Un style CSS peut influencer plusieurs pages d'un site en même temps.
+https://www.w3schools.com/cssref/
 
 <img src="css-overview.png"
      alt="css example"/>
