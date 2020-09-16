@@ -1,3 +1,6 @@
+# Ré-Explication de front-end back-end (niveau basique)
+<img src="front-back.png"/>
+
 ## HTML5
 HTML = Hypertexte Markup Language. Langage de balise 
 A été inventé au moment du WWW en 1990 (avec notamment le protocol HHTP)
